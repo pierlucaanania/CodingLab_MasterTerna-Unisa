@@ -19,6 +19,6 @@ if upper > lower:
             print("Number guessed")
             done = True
     print(f"Finished, the number was {choice} ")
-    print(f"Iteraction: {iteraction}")
+    print(f"Iteraction:{iteraction}")
 else:
     print("Wrong values")
